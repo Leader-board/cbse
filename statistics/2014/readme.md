@@ -6,6 +6,6 @@ Not much of data cleaning was done in this (yet). While I have written scripts t
 
 However, what I have done is in the way of name statistics. Currently the list of first, last and full names are available ranked by popularity, and a separate PDF file is available for this purpose.
 
-*Note: Many names were of the format A <name> <name>, like A Sai Teja. For the purposes of this data, the first and last word were taken as the first and last name respectively. In this case, the first name is A, not Sai.*
+*Note: Many names were of the format A name name, like A Sai Teja. For the purposes of this data, the first and last word were taken as the first and last name respectively. In this case, the first name is A, not Sai.*
 
 The full data (raw and processed) is available [here](https://universityofstandrews907-my.sharepoint.com/:f:/g/personal/dm282_st-andrews_ac_uk/EuQHAxsipPNCv9w4G_29F-MBnlF5mA0RHDW3-LV6FX1l1A?e=hba23n).
